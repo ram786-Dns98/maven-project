@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello evryone !</h2>
+<h2> PROJECT2!</h2>
 </body>
 </html>
